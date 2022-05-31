@@ -1,6 +1,6 @@
 # AlgoritmaPatikaDev 
 
-##Insertion Sort Projesi
+## Insertion Sort Projesi
 
 1-) [22, 27, 16, 2, 18, 6] 
 
@@ -18,16 +18,16 @@
 
 3-) Time Complexity;
 
-- ##Average Case: Normal dağılım.
+- ## Average Case: Normal dağılım.
 
-- ##Worst Case: Sıralı ama ters olması.
+- ## Worst Case: Sıralı ama ters olması.
 
-- ##Best Case:  Sıralı olması.
+- ## Best Case:  Sıralı olması.
 
 4-)
 - 18 sayısı dizi sıralandıktan sonra ortaya denk geleceği için Average Case'e girer.
 
-##Insertion Sort'a göre ilk 4 adımı;
+## Insertion Sort'a göre ilk 4 adımı;
 [7, 3, 5, 8, 2, 9, 4, 15, 6]
 
 - [**2**, 3, 5, 8, **7**, 9, 4, 15, 6] 
